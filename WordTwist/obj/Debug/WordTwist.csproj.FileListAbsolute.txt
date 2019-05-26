@@ -1,0 +1,10 @@
+C:\Users\Xiaomi\source\repos\WordTwist\WordTwist\bin\Debug\WordTwist.exe.config
+C:\Users\Xiaomi\source\repos\WordTwist\WordTwist\bin\Debug\WordTwist.exe
+C:\Users\Xiaomi\source\repos\WordTwist\WordTwist\bin\Debug\WordTwist.pdb
+C:\Users\Xiaomi\source\repos\WordTwist\WordTwist\obj\Debug\WordTwist.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\WordTwist\WordTwist\obj\Debug\WordTwist.Form1.resources
+C:\Users\Xiaomi\source\repos\WordTwist\WordTwist\obj\Debug\WordTwist.Properties.Resources.resources
+C:\Users\Xiaomi\source\repos\WordTwist\WordTwist\obj\Debug\WordTwist.csproj.GenerateResource.cache
+C:\Users\Xiaomi\source\repos\WordTwist\WordTwist\obj\Debug\WordTwist.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\WordTwist\WordTwist\obj\Debug\WordTwist.exe
+C:\Users\Xiaomi\source\repos\WordTwist\WordTwist\obj\Debug\WordTwist.pdb
